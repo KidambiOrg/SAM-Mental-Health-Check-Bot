@@ -5,23 +5,18 @@ An AI based mental health state of mind detection and possible intervention usin
 # Disclaimer
 The dataset used in this solution was obtained from open source dataset repositories like [Kaggle](https://www.kaggle.com/) and cleaned. It is **NOT** to be taken as an authoritative source for detecting mental health issues.But more of a proof of concept on how to leverage such datasets.
 
-# About Sam <div style="width:30px ; height:30px">![SAM](sam.png?raw=true "Sam - Mental Health Check Bot")<div>
+# About Sam 
 
 This is an implementation of a mental health system designed to act as an empathetic, first responder to individuals dealing with mental health challenges or crisis.​
 
-✔️ <span style="color:DarkBlue;font-weight:700;font-size:20px">
-    First tier intervention, monitoring ​and alerting!
-</span>
+✔️ First tier intervention, monitoring ​and alerting!
 
 
+✔️ First point of contact
 
-✔️ <span style="color:DarkBlue;font-weight:700;font-size:20px">
-    First point of contact
-</span>
 
-✔️ <span style="color:DarkBlue;font-weight:700;font-size:20px">
-    Empathetic ear
-</span>
+✔️ Empathetic ear
+
 
 
 
