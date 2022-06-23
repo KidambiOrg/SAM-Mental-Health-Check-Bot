@@ -5,7 +5,7 @@ An AI based mental health state of mind detection and possible intervention usin
 # Disclaimer
 The dataset used in this solution was obtained from open source dataset repositories like [Kaggle](https://www.kaggle.com/) and cleaned. It is **NOT** to be taken as an authoritative source for detecting mental health issues.But more of a proof of concept on how to leverage such datasets.
 
-# About Sam  ![SAM](sam.png){width=10%,height=10%}
+# About Sam  ![SAM](Sam.png){width=10%,height=10%}
 
 This is an implementation of a mental health system designed to act as an empathetic, first responder to individuals dealing with mental health challenges or crisis.​
 
